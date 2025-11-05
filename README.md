@@ -1,6 +1,6 @@
 # 💧 Sri Ram Borewell Solutions: Project Documentation Hub
 
-This repository serves as the official documentation record for the Sri Ram Borewell Solutions business website, detailing the project scope, custom feature implementation, and execution strategy.
+This repository serves as the official documentation record for the Sri Ram Borewell Solutions business website, detailing the project scope, custom feature implementation and execution strategy.
 
 ---
 
@@ -11,7 +11,7 @@ This repository serves as the official documentation record for the Sri Ram Bore
 
 ---
 
-## ✨ Project Mandate & Overview
+## Project Mandate & Overview
 
 The strategic goal was to establish the website as a robust **lead generation tool** while functioning as a comprehensive, digital service catalog.
 
